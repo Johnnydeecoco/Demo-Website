@@ -51,6 +51,7 @@ a {
 
 .logo {
   width: 300px;
+  margin: 0
 }
 
 ul {
@@ -72,7 +73,7 @@ li {
 }
 
 #about,
-#discord,
+#YouTube,
 #contact,
 footer {
   padding: 48px 0;
@@ -115,18 +116,18 @@ img {
 }
 
 .section__description--para {
-  font-size: 20px;
+  font-size: 36px;
   line-height: 1.5;
   margin-bottom: 24px;
 }
 
 /* 
 
-DISCORD
+YouTube
 
 */
 
-#discord {
+#YouTube {
   padding: 48px 0;
   background-color: #cefeff;
 }
